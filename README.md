@@ -30,8 +30,13 @@ This repository contains the source code for the personal portfolio website of *
 ## Project Structure
 
 / (root folder)
+
 ├── index.html # Main webpage with all sections
+
 ├── style.css # Styles including layout and animations
+
 ├── script.js # JavaScript for animations, chatbot, and interactions
+
 ├── assets/ # All images and external media referenced
+
 └── README.md # This file

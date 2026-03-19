@@ -2,6 +2,7 @@
 
 This repository contains the source code for the personal portfolio website of **Divya Sharma**, showcasing her skills, projects, internships, certifications, and contact details in a dynamic and engaging manner.
 
+https://divya-sharma-portfolio.netlify.app
 ---
 
 ## Features
